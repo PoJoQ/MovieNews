@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movie News</string>
+    <string name="no_news">No movie news found.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="preferences">Preferences</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_num_results_default">10</string>
+    <string name="settings_num_results_key">page-size</string>
+    <string name="settings_num_results_label">Number of Results</string>>
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_newest_value">newest</string>
+    <string name="settings_order_by_oldest_value">oldest</string>
+    <string name="settings_order_by_key">order-by</string>
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_default">@string/settings_order_by_newest_value</string>
+    <string name="settings_search_default">Write here</string>
+    <string name="settings_search_key">q</string>
+    <string name="settings_search_label">Search</string>
+</resources>
